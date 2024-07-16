@@ -1,0 +1,9 @@
+oi, isso é um teste de escrita em arquivo txt
+essa é uma segunda frase
+uma terceira
+uma quarta
+ta bom jaAdicionando mais uma linha
+
+Adicionando mais uma linha
+Primeira linha
+Segunda linha3
